@@ -18,6 +18,8 @@
   },
   "dependencies": {},
   "devDependencies": {
+    "cryptiles": ">=4.1.2",
+    "hoek": ">=4.2.1",
     "grunt": "^1.0.3",
     "grunt-bump": "^0.8.0",
     "grunt-contrib-compress": "^1.4.1",
