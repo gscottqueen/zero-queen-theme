@@ -1,7 +1,7 @@
 {
-	"name": "DevTools Theme: Zero Dark Matrix",
-	"version": "1.5.2",
-	"description": "A highly customized dark theme for Devtools.",
+	"name": "Zero Queen Theme",
+	"version": "1",
+	"description": "Nearly Perfect Dark Theme.",
 	"devtools_page": "devtools.html",
 	"homepage_url": "https://github.com/mauricecruz/chrome-devtools-zerodarkmatrix-theme",
 	"manifest_version": 2,
